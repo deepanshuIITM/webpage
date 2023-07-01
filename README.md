@@ -54,6 +54,8 @@
 #### ED5015: Computational methods in Design [Jan-May 2023]
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)*
 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
+
 ## Academic Collaborations 
 
 ####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html) [2021-current]
