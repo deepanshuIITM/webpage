@@ -44,18 +44,16 @@
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="90" height="90">
 
-
-
-
 #### 3. TOBB University of Economics and Technology 2021-2022
 **With:** Prof. Erdem Acar, Department of Mechanical Engineering, TOBB University of Economics and Technology, Ankara, Turkey 
 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="90" height="90">
 
 ## Relevant Websites
 
 1. [**A**dvanced **D**esign and **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory][https://ed.iitm.ac.in/~palramu/team.html]
 
-2. 
+2. [**C**omputational **O**ptimization and **IN**novation (**COIN**) Laboratory][https://www.coin-lab.org/content/members.html]
 
 
 
