@@ -33,6 +33,15 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
+### Skills
+
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2f5ead68-ab2e-4d88-bc7b-92c9f7c4f27a" alt="image" width="90" height="50"> 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/733ae47c-cc23-4b17-8d59-d5ce423879b7" alt="image" width="50" height="50"> 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/ccca25b5-7dca-403b-a80a-61e656feafb3" alt="image" width="100" height="50"> 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e7dd23af-8605-4bac-87ef-c9ff1795f658" alt="image" width="50" height="50">
+
+_________________________________________________________________________________________________________
+
 ## Work Experience
 
 ####   Student Trainee | [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/), Prayagraj, India [Jun-Jul 2014]
