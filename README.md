@@ -88,7 +88,10 @@
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a86cf97c-0744-49c2-8ae6-647adf621dda" alt="image" width="17" height="15">  [GitHub](https://github.com/deepanshuIITM?tab=repositories) |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4d7457d0-7b5e-45c0-8d79-2d68fadfcf6a" alt="image" width="17" height="15"> [Google Scholar](https://scholar.google.com/citations?user=CGESxnMAAAAJ&hl=en&authuser=1) |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e1ff0157-29a8-4e52-9a60-7386870f26b4" alt="image" width="17" height="15">  [Research Gate](https://www.researchgate.net/profile/Deepanshu-Yadav-5) |
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="15">  [Email](deepanshu.yadav380@gmail.com) | 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  [Email](deepanshu.yadav380@gmail.com) | 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/bc07bd1d-a716-4b9b-888b-b975f489892f" alt="image" width="17" height="13">  [Email](deepanshu.yadav380@gmail.com)
+
+
 
    
     
