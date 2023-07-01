@@ -17,6 +17,17 @@
 
 #### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/) and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
 
+### Research Interests
+**Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust optimization and decision-making
+
+**Machine Learning:** Applied Statistics, basics of Machine Learning and Deep Learning techniques
+
+**Visual Analytics:** Design space exploration, Pareto front exploration, region of interest (RoI) identification, interpretable self-organizing maps (iSOM), PCP, RadViz, etc.
+
+**Uncertainty Quantification:** Extreme events, reliability-based design, probabilistic techniques
+
+**Optimization:** Gradient-based and heuristics-based algorithms, evolutionary algorithms, single-objective, multi-objective, and many-objective optimization
+
 ## Work Experience
 
 ####   Student Trainee | [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/), Prayagraj, India [Jun-Jul 2014]
@@ -51,7 +62,7 @@
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
 ####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1) [2021-2022]
-**Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/), Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea*
+**Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/), Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/), South Korea*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
