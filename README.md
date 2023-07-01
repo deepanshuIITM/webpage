@@ -1,6 +1,5 @@
 # Deepanshu Yadav (Ph. D. Scholar | [IIT Madras](https://www.iitm.ac.in/))
 
-### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/) and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
 
 ### Hello! 
 
@@ -15,6 +14,8 @@
 
 ####   M.S. + Ph.D. in Engineering Design | [Indian Institute of Technology Madras](https://www.iitm.ac.in/), Chennai, Tamil Nadu, India [2019-present]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
+
+#### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/) and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
 
 ## Work Experience
 
