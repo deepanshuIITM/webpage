@@ -5,7 +5,7 @@
 
 ### Welcome to my personal webpage...
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/98e92068-30da-4798-bb35-5fcc0d7187d5" alt="image" width="350" height="400">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/98e92068-30da-4798-bb35-5fcc0d7187d5" alt="image" width="250" height="300">
 
 ## Education 
 
