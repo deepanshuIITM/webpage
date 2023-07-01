@@ -35,13 +35,13 @@
 ## Teaching Assistant: HW and Quiz preparation, Tutorials, Evaluations
 
 #### ED6002: Optimization in Engineering Design [Jul-Nov 2021]
-*[Department of Engineering Design](https://ed.iitm.ac.in/), IIT Madras* 
+*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)* 
 
 #### ED5015: Computational methods in Design [Jan-May 2022]
-*[Department of Engineering Design](https://ed.iitm.ac.in/), IIT Madras* 
+*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)* 
 
 #### ED5015: Computational methods in Design [Jan-May 2023]
-*[Department of Engineering Design](https://ed.iitm.ac.in/), IIT Madras*
+*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)*
 
 ## Academic Collaborations 
 
