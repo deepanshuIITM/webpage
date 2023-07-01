@@ -1,4 +1,6 @@
-# Deepanshu Yadav
+# Deepanshu Yadav (Ph. D. Scholar | [IIT Madras](https://www.iitm.ac.in/))
+
+### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/) and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
 
 ### Hello! 
 
@@ -43,19 +45,18 @@
 ## Academic Collaborations 
 
 ####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html) [2021-current]
-**Headed by:** Prof. Kalyanmoy Deb, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/), USA* 
+**Headed by:** [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/), Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/), USA* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
-
 ####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1) [2021-2022]
-**Headed by:** Prof. Ikjin Lee, Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea*
+**Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/), Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
 
 ####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) [2021-2022]
-**With:** Prof. Erdem Acar, Department of Mechanical Engineering, *[TOBB University of Economics and Technology]((https://www.etu.edu.tr/en), Ankara, Turkey* 
+**With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/), Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en), Ankara, Turkey* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
 
