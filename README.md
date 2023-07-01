@@ -10,14 +10,14 @@
 ## Education 
 ####   B. Tech. in Mechanical Engineering | [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/), Haryana, India [2012-2016]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
-____________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ####   M.S. + Ph.D. in Engineering Design | [Indian Institute of Technology Madras](https://www.iitm.ac.in/), Chennai, Tamil Nadu, India [2019-present]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
 #### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/) and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
 
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ### Research Interests
 **Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust optimization & decision-making
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 **Optimization:** Gradient-based and heuristics-based algorithms, evolutionary algorithms, single-objective, multi-objective optimization, and many-objective optimization
 
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ## Work Experience
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 ####   Assistant Manager | O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India [Aug-Jul 2018]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="175" height="50">
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ## Teaching Assistant: HW and Quiz preparation, Tutorials, Evaluations
 
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ## Academic Collaborations 
 
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 **With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/), Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en), Ankara, Turkey* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ## Relevant Websites
 
@@ -98,7 +98,7 @@ ________________________________________________________________________________
 [**C**omputational **O**ptimization and **IN**novation (**COIN**) Laboratory](https://www.coin-lab.org/content/members.html)
  
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6b9d7e75-c121-4edd-b16b-528264005bf9" alt="image" width="120" height="40">
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
  ## Let's connect ...
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6a0113b8-6857-4571-b00f-fb4f2edc00c6" alt="image" width="17" height="15">  [LinkedIn](https://www.linkedin.com/in/deepanshu-yadav-557812b7/) |
@@ -106,7 +106,7 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4d7457d0-7b5e-45c0-8d79-2d68fadfcf6a" alt="image" width="17" height="15"> [Google Scholar](https://scholar.google.com/citations?user=CGESxnMAAAAJ&hl=en&authuser=1) |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e1ff0157-29a8-4e52-9a60-7386870f26b4" alt="image" width="17" height="15">  [Research Gate](https://www.researchgate.net/profile/Deepanshu-Yadav-5) | 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/bc07bd1d-a716-4b9b-888b-b975f489892f" alt="image" width="15" height="15">  [CV](https://github.com/deepanshuIITM/Homepage/blob/main/Deepanshu_CV.pdf) 
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 ## Contact Info ...
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  deepanshu.yadav380@gmail.com |
