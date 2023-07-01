@@ -61,17 +61,16 @@
 
 ## Relevant Websites
 
- [**A**dvanced **D**esign and **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html)
+[**A**dvanced **D**esign and **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html)
 
-   <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9d480dd0-41c5-4a33-9c3d-43caa4fbb820" alt="image" width="120" height="40">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9d480dd0-41c5-4a33-9c3d-43caa4fbb820" alt="image" width="120" height="40">
 
-
- [**C**omputational **O**ptimization and **IN**novation (**COIN**) Laboratory](https://www.coin-lab.org/content/members.html)
+[**C**omputational **O**ptimization and **IN**novation (**COIN**) Laboratory](https://www.coin-lab.org/content/members.html)
  
-   [!<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6b9d7e75-c121-4edd-b16b-528264005bf9" alt="image" width="120" height="40">](https://www.coin-lab.org/content/members.html)
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6b9d7e75-c121-4edd-b16b-528264005bf9" alt="image" width="120" height="40">
 
 
-   ## Let's connect...
+ ## Let's connect...
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6a0113b8-6857-4571-b00f-fb4f2edc00c6" alt="image" width="17" height="15">  [LinkedIn](https://www.linkedin.com/in/deepanshu-yadav-557812b7/) |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4d7457d0-7b5e-45c0-8d79-2d68fadfcf6a" alt="image" width="17" height="15"> [Google Scholar](https://scholar.google.com/citations?user=CGESxnMAAAAJ&hl=en&authuser=1) |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e1ff0157-29a8-4e52-9a60-7386870f26b4" alt="image" width="17" height="15">  [Research Gate](https://www.researchgate.net/profile/Deepanshu-Yadav-5) |
