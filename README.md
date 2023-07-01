@@ -8,10 +8,10 @@
 
 ## Education 
 
-####   B. Tech. in Mechanical Engineering | National Institute of Technology Kurukshetra, Haryana, India [2012-2016]
+####   B. Tech. in Mechanical Engineering | [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/), Haryana, India [2012-2016]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
 
-####   M.S. + Ph.D. in Engineering Design | Indian Institute of Technology Madras, Chennai, Tamil Nadu, India [2019-present]
+####   M.S. + Ph.D. in Engineering Design | [Indian Institute of Technology Madras](https://www.iitm.ac.in/), Chennai, Tamil Nadu, India [2019-present]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
 ## Work Experience
@@ -27,7 +27,7 @@
 ####   Maintenance Engineering | FTP Vedanta Aluminium Limited, Jharsuguda, Odisha, India [Jan-Jul 2017]
 
 ####   Assistant Manager | O&M Aluminium Foundry, Vedanta Aluminium Limited, Jharsuguda, Odisha, India [Aug-Jul 2018]
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="150" height="50">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="175" height="50">
 
 ## Teaching Assistant: HW and Quiz preparation, Tutorials, Evaluations
 
@@ -52,12 +52,12 @@
 **Headed by:** Prof. Ikjin Lee, Department of Mechanical Engineering, *Korea Advanced Institute of Science & Technology (KAIST), Daejeon, South Korea*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="90" height="90">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
 
 ####   TOBB University of Economics and Technology [2021-2022]
 **With:** Prof. Erdem Acar, Department of Mechanical Engineering, *TOBB University of Economics and Technology, Ankara, Turkey* 
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="90" height="90">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
 
 ## Relevant Websites
 
