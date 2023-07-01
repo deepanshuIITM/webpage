@@ -16,46 +16,46 @@
 
 ## Work Experience
 
-####   Student Trainee | Bharat Pumps and Compressors Limited, Prayagraj, India [Jun-Jul 2014]
+####   Student Trainee | [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/), Prayagraj, India [Jun-Jul 2014]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2d3db22d-8584-4d2c-b825-8e745f19de25" alt="image" width="70" height="70">
 
-####   Student Intern | Mercedes Benz Research and Development India, Bangalore, India [Jun-Aug 2015]
+####   Student Intern | [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/), Bangalore, India [Jun-Aug 2015]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/5bcfd643-0d56-4a54-9838-f7793893e7f3" alt="image" width="75" height="75">
 
-####   Graduate Engineer Trainee | Vedanta Aluminium Limited, Jharsuguda, Odisha, India [Jun-Dec 2016]
+####   Graduate Engineer Trainee | [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India [Jun-Dec 2016]
 
-####   Maintenance Engineering | FTP Vedanta Aluminium Limited, Jharsuguda, Odisha, India [Jan-Jul 2017]
+####   Maintenance Engineering | FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India [Jan-Jul 2017]
 
-####   Assistant Manager | O&M Aluminium Foundry, Vedanta Aluminium Limited, Jharsuguda, Odisha, India [Aug-Jul 2018]
+####   Assistant Manager | O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India [Aug-Jul 2018]
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="175" height="50">
 
 ## Teaching Assistant: HW and Quiz preparation, Tutorials, Evaluations
 
 #### ED6002: Optimization in Engineering Design [Jul-Nov 2021]
-*Department of Engineering Design, IIT Madras* 
+*[Department of Engineering Design](https://ed.iitm.ac.in/), IIT Madras* 
 
 #### ED5015: Computational methods in Design [Jan-May 2022]
-*Department of Engineering Design, IIT Madras* 
+*[Department of Engineering Design](https://ed.iitm.ac.in/), IIT Madras* 
 
 #### ED5015: Computational methods in Design [Jan-May 2023]
-*Department of Engineering Design, IIT Madras*
+*[Department of Engineering Design](https://ed.iitm.ac.in/), IIT Madras*
 
 ## Academic Collaborations 
 
-####   COINLab: Computational Optimization and Innovation Laboratory [2021-current]
-**Headed by:** Prof. Kalyanmoy Deb, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, Michigan State University, USA* 
+####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html) [2021-current]
+**Headed by:** Prof. Kalyanmoy Deb, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/), USA* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
 
-####   IDO: Innovative Design Optimization Laboratory [2021-2022]
-**Headed by:** Prof. Ikjin Lee, Department of Mechanical Engineering, *Korea Advanced Institute of Science & Technology (KAIST), Daejeon, South Korea*
+####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1) [2021-2022]
+**Headed by:** Prof. Ikjin Lee, Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
 
-####   TOBB University of Economics and Technology [2021-2022]
-**With:** Prof. Erdem Acar, Department of Mechanical Engineering, *TOBB University of Economics and Technology, Ankara, Turkey* 
+####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) [2021-2022]
+**With:** Prof. Erdem Acar, Department of Mechanical Engineering, *[TOBB University of Economics and Technology]((https://www.etu.edu.tr/en), Ankara, Turkey* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
 
