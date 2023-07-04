@@ -53,11 +53,15 @@ ________________________________________________________________________________
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2d3db22d-8584-4d2c-b825-8e745f19de25" alt="image" width="70" height="70">
 
+_________________________________________________________________________________________________________
+
 
 ####   Student Intern | [Jun 2015-Aug 2015]
 #### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/), Bangalore, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/5bcfd643-0d56-4a54-9838-f7793893e7f3" alt="image" width="75" height="75">
+
+_________________________________________________________________________________________________________
 
 
 ####   Graduate Engineer Trainee | [Jun 2016-Dec 2016]
