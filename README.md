@@ -116,7 +116,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
- ## Let us connect ...
+ ## Let's connect
  
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6a0113b8-6857-4571-b00f-fb4f2edc00c6" alt="image" width="17" height="15">  [LinkedIn](https://www.linkedin.com/in/deepanshu-yadav-557812b7/) |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a86cf97c-0744-49c2-8ae6-647adf621dda" alt="image" width="15" height="15">  [GitHub](https://github.com/deepanshuIITM?tab=repositories) |
