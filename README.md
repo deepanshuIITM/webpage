@@ -1,8 +1,8 @@
-### Hello! 
-
-### Welcome to my personal webpage...
+## Hello! Welcome to my personal webpage...
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/98e92068-30da-4798-bb35-5fcc0d7187d5" alt="image" width="200" height="230">
+
+## Deepanshu Yadav | Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/)
 
 ## Education 
 ####   B. Tech. in Mechanical Engineering | [2012-2016]
