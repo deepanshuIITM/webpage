@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
 ## Relevant Websites
 
-[**A**dvanced **D**esign and **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html)
+[**A**dvanced **D**esign **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html)
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9d480dd0-41c5-4a33-9c3d-43caa4fbb820" alt="image" width="120" height="40">
 
