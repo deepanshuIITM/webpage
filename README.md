@@ -1,6 +1,7 @@
 ## Hello! Welcome to my personal webpage...
 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/fd4e1938-f7f4-4fc9-8e5e-fbd18ce40653" alt="image" width="250" height="280">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9c2cae63-6e60-4289-a945-d7b8a909e400" alt="image" width="225" height="225">
+
 
 ## Deepanshu Yadav | Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/)
 
