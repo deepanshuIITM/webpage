@@ -127,7 +127,7 @@ ________________________________________________________________________________
 
 ## Contact Info
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  deepanshu.yadav380@gmail.com |
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a064571d-cd59-4b38-a0f4-79a9427fb60a" alt="image" width="15" height="15">  +91 9078072484 |
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a064571d-cd59-4b38-a0f4-79a9427fb60a" alt="image" width="15" height="15">  +91 9078072XXX |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/bc07bd1d-a716-4b9b-888b-b975f489892f" alt="image" width="15" height="15">  [CV](https://github.com/deepanshuIITM/Homepage/blob/main/Deepanshu_CV.pdf) 
 
 _________________________________________________________________________________________________________
