@@ -128,6 +128,17 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
+## Publications 
+[1]. [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6)
+
+[2]. [Pannerselvam, K., **Yadav, D.**, & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization Using Importance Sampling. *Mathematical and Computational Applications, 27(6), 99.*](https://www.mdpi.com/2297-8747/27/6/99)
+
+[3] [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145)
+
+[4]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/)
+
+_________________________________________________________________________________________________________
+
 ## **Connect at**
  
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6a0113b8-6857-4571-b00f-fb4f2edc00c6" alt="image" width="17" height="15">  [LinkedIn](https://www.linkedin.com/in/deepanshu-yadav-557812b7/) |
