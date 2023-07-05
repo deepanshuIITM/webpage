@@ -1,4 +1,4 @@
-## Deepanshu Yadav | Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/)
+## Deepanshu Yadav | Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/){:target="_blank" rel="noopener"}
 
 ### Hello! Welcome to my webpage...
 
