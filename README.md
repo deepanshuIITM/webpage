@@ -6,7 +6,7 @@
 
 ## Education 
 ####   B. Tech. in Mechanical Engineering | [2012-2016]
-#### [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/), Haryana, India
+#### [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/){:target="_blank"}, Haryana, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
 
@@ -14,10 +14,10 @@ ________________________________________________________________________________
 
 #### M.S. + Ph.D. in Engineering Design | [2019-present]
 
-#### [Indian Institute of Technology Madras](https://www.iitm.ac.in/), Chennai, Tamil Nadu, India 
+#### [Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="_blank"}, Chennai, Tamil Nadu, India 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
-#### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/) and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
+#### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
@@ -49,7 +49,7 @@ ________________________________________________________________________________
 ## Work Experience
 
 ####   Student Trainee | [Jun 2014-Jul 2014]
-#### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/), Prayagraj, India
+#### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/){:target="_blank"}, Prayagraj, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2d3db22d-8584-4d2c-b825-8e745f19de25" alt="image" width="70" height="70">
 
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 
 #### Student Intern | [Jun 2015-Aug 2015]
-#### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/), Bangalore, India
+#### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/){:target="_blank"}, Bangalore, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/5bcfd643-0d56-4a54-9838-f7793893e7f3" alt="image" width="75" height="75">
 
@@ -65,13 +65,13 @@ ________________________________________________________________________________
 
 
 #### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
-#### [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India
+#### [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
 #### Maintenance Engineering | [Jan 2017-Jul 2017]
-#### FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India
+#### FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
 #### Assistant Manager | [Aug 2018-Jul 2018]
-#### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India
+#### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="175" height="50">
 
@@ -80,11 +80,11 @@ ________________________________________________________________________________
 ## Teaching Assistant
 
 #### ED5015: Computational methods in Design [Jan-May 2022, Jan-May 2023]
-*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)*
+*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}*
 
 
 #### ED6002: Optimization in Engineering Design [Jul-Nov 2021]
-*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)* 
+*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}* 
  
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
@@ -95,36 +95,36 @@ ________________________________________________________________________________
 ## Academic Collaborations 
 
 ####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html) [2021-current]
-**Headed by:** [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/), Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/), USA* 
+**Headed by:** [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/){:target="_blank"}, USA* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
 
 ####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1) [2021-2022]
-**Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/), Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/), South Korea*
+**Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/){:target="_blank"}, Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/){:target="_blank"}, South Korea*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
 
 
 ####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) [2021-2022]
-**With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/), Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en), Ankara, Turkey* 
+**With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/){:target="_blank"}, Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"}, Ankara, Turkey* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
 
 _________________________________________________________________________________________________________
 
 ## Journal Publications 
-[1]. [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145)
+[1]. [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145){:target="_blank"}
 
-[2]. [Pannerselvam, K., **Yadav, D.**, & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization Using Importance Sampling. *Mathematical and Computational Applications, 27(6), 99.*](https://www.mdpi.com/2297-8747/27/6/99)
+[2]. [Pannerselvam, K., **Yadav, D.**, & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization Using Importance Sampling. *Mathematical and Computational Applications, 27(6), 99.*](https://www.mdpi.com/2297-8747/27/6/99){:target="_blank"}
 
-[3] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6)
+[3] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
 ## Conference Proceedings
-[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/)
+[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
 
 [2]. **Yadav, D.**, Ramu, P., & Deb, K. (2023, July). Finding Robust Solutions for Many-Objective Optimization Using NSGA-III. In *Congress on Evolutionary Computation (CEC 2023). IEEE*. [**Accepted**]
 
@@ -135,11 +135,11 @@ ________________________________________________________________________________
 
 ## Relevant Websites
 
-[**A**dvanced **D**esign **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html)
+[**A**dvanced **D**esign **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html){:target="_blank"}
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9d480dd0-41c5-4a33-9c3d-43caa4fbb820" alt="image" width="120" height="40">
 
-[**C**omputational **O**ptimization and **IN**novation (**COIN**) Laboratory](https://www.coin-lab.org/content/members.html)
+[**C**omputational **O**ptimization and **IN**novation (**COIN**) Laboratory](https://www.coin-lab.org/content/members.html){:target="_blank"}
  
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6b9d7e75-c121-4edd-b16b-528264005bf9" alt="image" width="120" height="40">
 
