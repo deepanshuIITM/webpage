@@ -57,7 +57,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-####   Student Intern | [Jun 2015-Aug 2015]
+#### Student Intern | [Jun 2015-Aug 2015]
 #### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/), Bangalore, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/5bcfd643-0d56-4a54-9838-f7793893e7f3" alt="image" width="75" height="75">
@@ -65,13 +65,13 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-####   Graduate Engineer Trainee | [Jun 2016-Dec 2016]
+#### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
 #### [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India
 
-####   Maintenance Engineering | [Jan 2017-Jul 2017]
+#### Maintenance Engineering | [Jan 2017-Jul 2017]
 #### FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India
 
-####   Assistant Manager | [Aug 2018-Jul 2018]
+#### Assistant Manager | [Aug 2018-Jul 2018]
 #### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/), Jharsuguda, Odisha, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="175" height="50">
@@ -80,13 +80,13 @@ ________________________________________________________________________________
 
 ## Teaching Assistant
 
+#### ED5015: Computational methods in Design [Jan-May 2022, Jan-May 2023]
+*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)*
+
+
 #### ED6002: Optimization in Engineering Design [Jul-Nov 2021]
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)* 
-
-
-#### ED5015: Computational methods in Design [Jan-May 2022, Jan-May 2023]
-*[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/)* 
-
+ 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
