@@ -6,6 +6,7 @@
 
 ## Education 
 ####   B. Tech. in Mechanical Engineering | [2012-2016]
+
 #### [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/){:target="_blank"}, Haryana, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
@@ -15,6 +16,7 @@ ________________________________________________________________________________
 #### M.S. + Ph.D. in Engineering Design | [2019-present]
 
 #### [Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="_blank"}, Chennai, Tamil Nadu, India 
+
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
 #### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
