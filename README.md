@@ -5,6 +5,7 @@
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9c2cae63-6e60-4289-a945-d7b8a909e400" alt="image" width="250" height="250">
 
 ## Education 
+
 ####   B. Tech. in Mechanical Engineering | [2012-2016]
 
 #### [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/){:target="_blank"}, Haryana, India
