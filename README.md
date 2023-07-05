@@ -6,7 +6,8 @@
 ### Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
 _________________________________________________________________________________________________________
-_________________________________________________________________________________________________________
+
+
 ## Education 
 
 ####   B. Tech. in Mechanical Engineering | [2012-2016]
@@ -41,7 +42,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-### Skills
+## Skills
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/733ae47c-cc23-4b17-8d59-d5ce423879b7" alt="image" width="50" height="50"> 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2f5ead68-ab2e-4d88-bc7b-92c9f7c4f27a" alt="image" width="90" height="50">
@@ -54,7 +55,7 @@ ________________________________________________________________________________
 
 ## Work Experience
 
-####   Student Trainee | [Jun 2014-Jul 2014]
+###   Student Trainee | [Jun 2014-Jul 2014]
 
 #### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/){:target="_blank"}, Prayagraj, India
 
@@ -63,7 +64,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-#### Student Intern | [Jun 2015-Aug 2015]
+### Student Intern | [Jun 2015-Aug 2015]
 
 #### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/){:target="_blank"}, Bangalore, India
 
@@ -72,15 +73,15 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-#### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
+### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
 
 #### [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
-#### Maintenance Engineering | [Jan 2017-Jul 2017]
+### Maintenance Engineering | [Jan 2017-Jul 2017]
 
 #### FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
-#### Assistant Manager | [Aug 2018-Jul 2018]
+### Assistant Manager | [Aug 2018-Jul 2018]
 
 #### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
