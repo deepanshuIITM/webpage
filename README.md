@@ -5,6 +5,8 @@
 
 ### Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
+_________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 ## Education 
 
 ####   B. Tech. in Mechanical Engineering | [2012-2016]
@@ -53,6 +55,7 @@ ________________________________________________________________________________
 ## Work Experience
 
 ####   Student Trainee | [Jun 2014-Jul 2014]
+
 #### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/){:target="_blank"}, Prayagraj, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2d3db22d-8584-4d2c-b825-8e745f19de25" alt="image" width="70" height="70">
@@ -61,6 +64,7 @@ ________________________________________________________________________________
 
 
 #### Student Intern | [Jun 2015-Aug 2015]
+
 #### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/){:target="_blank"}, Bangalore, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/5bcfd643-0d56-4a54-9838-f7793893e7f3" alt="image" width="75" height="75">
@@ -69,12 +73,15 @@ ________________________________________________________________________________
 
 
 #### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
+
 #### [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
 #### Maintenance Engineering | [Jan 2017-Jul 2017]
+
 #### FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
 #### Assistant Manager | [Aug 2018-Jul 2018]
+
 #### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4ffac036-8091-48f3-9666-4d78b29e3ef2" alt="image" width="175" height="50">
@@ -84,10 +91,12 @@ ________________________________________________________________________________
 ## Teaching Assistant
 
 #### ED5015: Computational methods in Design [Jan-May 2022, Jan-May 2023]
+
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}*
 
 
 #### ED6002: Optimization in Engineering Design [Jul-Nov 2021]
+
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}* 
  
 
@@ -99,12 +108,14 @@ ________________________________________________________________________________
 ## Academic Collaborations 
 
 ####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html) [2021-current]
+
 **Headed by:** [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/){:target="_blank"}, USA* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
 
 ####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1) [2021-2022]
+
 **Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/){:target="_blank"}, Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/){:target="_blank"}, South Korea*
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
@@ -112,6 +123,7 @@ ________________________________________________________________________________
 
 
 ####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) [2021-2022]
+
 **With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/){:target="_blank"}, Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"}, Ankara, Turkey* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
@@ -119,6 +131,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 ## Journal Publications 
+
 [1]. [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145){:target="_blank"}
 
 [2]. [Pannerselvam, K., **Yadav, D.**, & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization Using Importance Sampling. *Mathematical and Computational Applications, 27(6), 99.*](https://www.mdpi.com/2297-8747/27/6/99){:target="_blank"}
@@ -128,6 +141,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 ## Conference Proceedings
+
 [1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
 
 [2]. **Yadav, D.**, Ramu, P., & Deb, K. (2023, July). Finding Robust Solutions for Many-Objective Optimization Using NSGA-III. In *Congress on Evolutionary Computation (CEC 2023). IEEE*. [**Accepted**]
@@ -161,6 +175,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 ## Contact Info
+
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  deepanshu.yadav380@gmail.com |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a064571d-cd59-4b38-a0f4-79a9427fb60a" alt="image" width="15" height="15">  +91 9078072XXX  
 
