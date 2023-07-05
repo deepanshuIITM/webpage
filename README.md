@@ -3,7 +3,7 @@
 
 ## Deepanshu Yadav | Ph. D. Scholar 
 
-#### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
