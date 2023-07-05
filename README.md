@@ -3,7 +3,7 @@
 
 # Deepanshu Yadav 
 
-## Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+### Ph. D. Scholar [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
 ## Education 
 
