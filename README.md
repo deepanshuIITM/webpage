@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 ## Work Experience
 
-###   Student Trainee | [Jun 2014-Jul 2014]
+####   Student Trainee | [Jun 2014-Jul 2014]
 
 #### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/){:target="_blank"}, Prayagraj, India
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-### Student Intern | [Jun 2015-Aug 2015]
+#### Student Intern | [Jun 2015-Aug 2015]
 
 #### [Mercedes Benz Research and Development India](https://www.mbrdi.co.in/){:target="_blank"}, Bangalore, India
 
@@ -73,15 +73,15 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
+#### Graduate Engineer Trainee | [Jun 2016-Dec 2016]
 
 #### [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
-### Maintenance Engineering | [Jan 2017-Jul 2017]
+#### Maintenance Engineering | [Jan 2017-Jul 2017]
 
-#### FTP [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
+#### FTP, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
-### Assistant Manager | [Aug 2018-Jul 2018]
+#### Assistant Manager | [Aug 2018-Jul 2018]
 
 #### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
