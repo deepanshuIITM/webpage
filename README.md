@@ -1,9 +1,9 @@
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9c2cae63-6e60-4289-a945-d7b8a909e400" alt="image" width="250" height="250">
 
-# Deepanshu Yadav | Ph. D. Scholar 
+## Deepanshu Yadav | Ph. D. Scholar 
 
-### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+#### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
