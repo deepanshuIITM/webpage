@@ -143,9 +143,9 @@ ________________________________________________________________________________
 
 ## Conference Proceedings
 
-[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
+[1]. [**Yadav, D.**, Ramu, P., & Deb, K. 2023. Multi-objective Robust Optimization and Decision-Making Using Evolutionary Algorithms. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '23). Association for Computing Machinery, New York, NY, USA*, 786–794.](https://doi.org/10.1145/3583131.3590420){:target="_blank"}
 
-[2]. [**Yadav, D.**, Ramu, P., & Deb, K. 2023. Multi-objective Robust Optimization and Decision-Making Using Evolutionary Algorithms. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '23). Association for Computing Machinery, New York, NY, USA*, 786–794.](https://doi.org/10.1145/3583131.3590420){:target="_blank"}
+[2]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
 
 [3]. **Yadav, D.**, Ramu, P., & Deb, K. (2023, July). Finding Robust Solutions for Many-Objective Optimization Using NSGA-III. In *Congress on Evolutionary Computation (CEC 2023). IEEE*. [**Accepted**]
 
