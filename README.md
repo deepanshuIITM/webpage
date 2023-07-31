@@ -153,7 +153,9 @@ ________________________________________________________________________________
 
 ## Conference/Symposium Presentations
 
-[1]. **Yadav D.**, Ramu P. (2023), “A Novel Sensitivity Analysis Method Using Self Organizing Maps (SOM)”, In _The 15th World Conference of Structural and Multi-disciplinary Optimization (WCSMO-15)_. 
+[1]. **Yadav D.**, Ramu P. (2023), “Multi-Criteria Decision-making (MCDM) using interpretable Self-organizing Maps (iSOM)”, In _International System Realization Partnership (ISRP) 2023 Symposium,_ Design Engineering in the Age of Industry 5.0, Cranfield University.
+
+[2]. **Yadav D.**, Ramu P. (2023), “A Novel Sensitivity Analysis Method Using Self Organizing Maps (SOM)”, In _The 15th World Conference of Structural and Multi-disciplinary Optimization (WCSMO-15)_. 
 
 [2]. **Yadav D.**, Ramu P. (2021), “iSOM Enabled Targeted Sampling for Extremes Prediction”, In _The 2nd International Symposium on Data Analytics Risk & Technology, RBCDSAI, IIT Madras_.
 
