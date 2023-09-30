@@ -155,7 +155,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 ## Conference/Symposium Presentations
-[1]. **Yadav D.**, Raj M., Ramu P., & (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
+[1]. **Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
 December 6-8, 2023, IIT Guwahati_. [**Accepted**]
 
 [2]. Rishwanth M., Kishore V.V., Srinivasan, A.N., Mani V., **Yadav D.** & Ramu P. (2023), "iSOM-derived Explainable Outcomes for Engineering Applications", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
