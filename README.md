@@ -111,14 +111,14 @@ ________________________________________________________________________________
 
 ## Academic Collaborations 
 
-####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html) [2021-current]
+####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html){:target="_blank"} [2021-current]
 
 **Headed by:** [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/){:target="_blank"}, USA* 
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
 
-####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1) [2021-2022]
+####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1){:target="_blank"} [2021-2022]
 
 **Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/){:target="_blank"}, Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/){:target="_blank"}, South Korea*
 
@@ -126,7 +126,7 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
 
 
-####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) [2021-2022]
+####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"} [2021-2022]
 
 **With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/){:target="_blank"}, Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"}, Ankara, Turkey* 
 
