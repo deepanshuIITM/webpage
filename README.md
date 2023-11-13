@@ -136,7 +136,8 @@ ________________________________________________________________________________
 
 ## Journal Publications 
 
-[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023). Interpretable self-organizing map assisted interactive multi-criteria decision-making following Pareto-Race. *European Journal of Operational Research, 309(3), 1183-1200*.]([https://www.sciencedirect.com/science/article/pii/S0377221723001145](https://doi.org/10.1016/j.asoc.2023.111032)){:target="_blank"}
+[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023). Interpretable self-organizing map assisted interactive multi-criteria decision-making following Pareto-Race. *Applied Soft Computing, 309(3), 1183-1200*.] 
+(https://doi.org/10.1016/j.asoc.2023.111032){:target="_blank"}
 
 [2]. [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145){:target="_blank"}
 
