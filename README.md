@@ -144,7 +144,7 @@ ________________________________________________________________________________
 
 [4] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
 
-[5] [**Yadav, D.**, Sekar, K., & Ramu, P., Visualization-enabled Adaptive Sampling for Estimation of Small Probability of Failure. (**Under Review**)
+[5] **Yadav, D.**, Sekar, K., & Ramu, P., Visualization-enabled Adaptive Sampling for Estimation of Small Probability of Failure. (**Under Review**)
 
 _________________________________________________________________________________________________________
 
