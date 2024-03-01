@@ -142,7 +142,7 @@ ________________________________________________________________________________
 
 [4] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
 
-[5] **Yadav, D.**, Sekar, K., & Ramu, P., Visualization-enabled Adaptive Sampling for Estimation of Small Probability of Failure. (**Under Review**)
+[5] **Yadav, D.**, Sekar, K., & Ramu, P., Adaptive Sampling for Estimation of Small Probability of Failure Using interpretable Self-Organising Map. (**Under Review**)
 
 _________________________________________________________________________________________________________
 
@@ -154,10 +154,11 @@ ________________________________________________________________________________
 
 [3]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
 
+[4]. **Yadav, D.**, Ramu, P., & Deb, K. (2024, July). An Updated Performace Metric for Preference Based Evolutionary Multi-Objective Optimization. In *The Genetic and Evolutionary Competition Conference* ACM.
 _________________________________________________________________________________________________________
 
 ## Conference/Symposium Presentations
-[1]. **Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
+[1]. [**Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CGESxnMAAAAJ&authuser=1&citation_for_view=CGESxnMAAAAJ:qjMakFHDy7sC](https://drive.google.com/file/d/1Ke-H0jBH0gG2I1tqQ5-cd0DGwWh0WJUG/view?usp=sharing)){:target="_blank"}
 December 6-8, 2023, IIT Guwahati_. 
 
 [2]. Rishwanth M., Kishore V.V., Srinivasan, A.N., Mani V., **Yadav D.** & Ramu P. (2023), "iSOM-derived Explainable Outcomes for Engineering Applications", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
