@@ -210,6 +210,119 @@ ________________________________________________________________________________
 
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepanshu Yadav | Ph.D. Scholar</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- First Window -->
+        <div class="card">
+            <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9c2cae63-6e60-4289-a945-d7b8a909e400" alt="image" width="250" height="250">
+            <h2>Deepanshu Yadav | Ph. D. Scholar</h2>
+            <p><a href="https://ed.iitm.ac.in/" target="_blank">Department of Engineering Design</a> | <a href="https://www.iitm.ac.in/" target="_blank">IIT Madras</a></p>
+            <!-- Other content goes here -->
+        </div>
+        
+        <!-- Second Window -->
+        <div class="card">
+            <h2>Education</h2>
+            <!-- Education content goes here -->
+        </div>
+        
+        <!-- Third Window -->
+        <div class="card">
+            <h2>Research Interests</h2>
+            <!-- Research interests content goes here -->
+        </div>
+        
+        <!-- Fourth Window -->
+        <div class="card">
+            <h2>Skills</h2>
+            <!-- Skills content goes here -->
+        </div>
+        
+        <!-- Fifth Window -->
+        <div class="card">
+            <h2>Work Experience</h2>
+            <!-- Work experience content goes here -->
+        </div>
+        
+        <!-- Sixth Window -->
+        <div class="card">
+            <h2>Teaching Assistant</h2>
+            <!-- Teaching assistant content goes here -->
+        </div>
+        
+        <!-- Seventh Window -->
+        <div class="card">
+            <h2>Academic Collaborations</h2>
+            <!-- Academic collaborations content goes here -->
+        </div>
+        
+        <!-- Eighth Window -->
+        <div class="card">
+            <h2>Journal Publications</h2>
+            <!-- Journal publications content goes here -->
+        </div>
+        
+        <!-- Ninth Window -->
+        <div class="card">
+            <h2>Conference Proceedings</h2>
+            <!-- Conference proceedings content goes here -->
+        </div>
+        
+        <!-- Tenth Window -->
+        <div class="card">
+            <h2>Conference/Symposium Presentations</h2>
+            <!-- Conference/symposium presentations content goes here -->
+        </div>
+        
+        <!-- Eleventh Window -->
+        <div class="card">
+            <h2>Relevant Websites</h2>
+            <!-- Relevant websites content goes here -->
+        </div>
+        
+        <!-- Twelfth Window -->
+        <div class="card">
+            <h2>Let's Connect ...</h2>
+            <!-- Let's connect content goes here -->
+        </div>
+        
+        <!-- Thirteenth Window -->
+        <div class="card">
+            <h2>Contact Info</h2>
+            <!-- Contact info content goes here -->
+        </div>
+        
+        <!-- Fourteenth Window -->
+        <div class="card">
+            <h2>THANK YOU !</h2>
+            <!-- Thank you message goes here -->
+        </div>
+    </div>
+</body>
+</html>
+
+
  
     
 
