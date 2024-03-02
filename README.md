@@ -2,7 +2,7 @@
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/9c2cae63-6e60-4289-a945-d7b8a909e400" alt="image" width="250" height="250">
 
 ## Deepanshu Yadav | Ph. D. Scholar 
-### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | [IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras]** (https://www.iitm.ac.in/){:target="_blank"}
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6a0113b8-6857-4571-b00f-fb4f2edc00c6" alt="image" width="17" height="15">  [LinkedIn](https://www.linkedin.com/in/deepanshu-yadav-557812b7/){:target="_blank"} |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a86cf97c-0744-49c2-8ae6-647adf621dda" alt="image" width="15" height="15">  [GitHub](https://github.com/deepanshuIITM?tab=repositories){:target="_blank"} |
