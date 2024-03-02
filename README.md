@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 ####   Student Trainee | [Jun 2014-Jul 2014]
 
-#### [Bharat Pumps and Compressors Limited](https://www.bpcnaini.co.in/){:target="_blank"}, Prayagraj, India
+#### [Bharat Pumps and Compressors Limited](https://www.bharatpumps.co.in/ri/index.htm){:target="_blank"}, Prayagraj, India
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2d3db22d-8584-4d2c-b825-8e745f19de25" alt="image" width="70" height="70">
 
