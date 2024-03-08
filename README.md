@@ -10,9 +10,8 @@
 ### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras](https://www.iitm.ac.in/){:target="_blank"}**
 
 ### Ph.D. Thesis: Visualization-aided Multi-criteria Decision-making 
-### I have developed an App based on my Ph.D. work
 
-<img src="https://github.com/deepanshuIITM/webpage/assets/137225940/2022278d-428d-48eb-9fed-319fc07d0c3f" alt="image" width="250" height="250">
+https://github.com/deepanshuIITM/webpage/raw/assets/137225940/2022278d-428d-48eb-9fed-319fc07d0c3f
 
 __________________________________________________________________________________________________________
 
