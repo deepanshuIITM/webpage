@@ -9,7 +9,7 @@
 ## Deepanshu Yadav | Ph. D. Scholar 
 ### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras](https://www.iitm.ac.in/){:target="_blank"}**
 
-**Ph.D. Thesis:** **[Visualization-aided Multi-criteria Decision-making](https://private-user-images.githubusercontent.com/137225940/311293064-65a3b0ea-8ac6-4cde-adac-9a76395a4dc2.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5MTc1NzQsIm5iZiI6MTcwOTkxNzI3NCwicGF0aCI6Ii8xMzcyMjU5NDAvMzExMjkzMDY0LTY1YTNiMGVhLThhYzYtNGNkZS1hZGFjLTlhNzYzOTVhNGRjMi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOFQxNzAxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNDMyNmNmYzEzMDkyOTNmNTkyNzljMmE2MGZkNTc4YjBmZjJhN2MyMzY2MjAxNmRmNmFhODE4NzIxOWU1ZjBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.k3l20q56wZix4H2jXFIgzhcp2j1vm-z8qKmgrfu7JNw){:target="_blank"}**
+**Ph.D. Thesis:** **[Visualization-aided Multi-criteria Decision-making](https://github.com/deepanshuIITM/iSOM-MCDM-Application){:target="_blank"}**
 
 
 __________________________________________________________________________________________________________
