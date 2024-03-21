@@ -148,7 +148,7 @@ ________________________________________________________________________________
 
 [4] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
 
-[5] **Yadav, D.**, Sekar, K., & Ramu, P., Adaptive Sampling for Estimation of Small Probability of Failure Using interpretable Self-Organising Map. (**Under Review**)
+[5] **Yadav, D.**, Sekar, K., & Ramu, P., Adaptive Sampling for Estimation of Small Probability of Failure Using interpretable Self-Organising Map. (**Accepted**)
 
 _________________________________________________________________________________________________________
 
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 
 [3]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
 
-[4]. **Yadav, D.**, Ramu, P., & Deb, K. (2024, July). An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization. In *The Genetic and Evolutionary Computation Conference* ACM. (**Under Review**)
+[4]. **Yadav, D.**, Ramu, P., & Deb, K. (2024, July). An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization. In *The Genetic and Evolutionary Computation Conference* ACM. (**Accepted**)
 
 _________________________________________________________________________________________________________
 
