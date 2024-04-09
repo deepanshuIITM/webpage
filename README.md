@@ -140,15 +140,16 @@ ________________________________________________________________________________
 
 ## Journal Publications 
 
-[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023). Interpretable self-organizing map assisted interactive multi-criteria decision-making following Pareto-Race. *Applied Soft Computing*, 149 (2023): 111032.](https://doi.org/10.1016/j.asoc.2023.111032){:target="_blank"}
+[1] [**Yadav, D.**, Sekar, K., & Ramu, P., Adaptive sampling based estimation of small probability of failure using interpretable Self-Organising Map.](https://doi.org/10.1016/j.strusafe.2024.102470){:target="_blank"}
 
-[2]. [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145){:target="_blank"}
+[2]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023). Interpretable self-organizing map assisted interactive multi-criteria decision-making following Pareto-Race. *Applied Soft Computing*, 149 (2023): 111032.](https://doi.org/10.1016/j.asoc.2023.111032){:target="_blank"}
 
-[3]. [Pannerselvam, K., **Yadav, D.**, & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization Using Importance Sampling. *Mathematical and Computational Applications, 27(6), 99.*](https://www.mdpi.com/2297-8747/27/6/99){:target="_blank"}
+[3]. [**Yadav, D.**, Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable self-organizing maps. *European Journal of Operational Research, 309(3), 1183-1200*.](https://www.sciencedirect.com/science/article/pii/S0377221723001145){:target="_blank"}
 
-[4] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
+[4]. [Pannerselvam, K., **Yadav, D.**, & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization Using Importance Sampling. *Mathematical and Computational Applications, 27(6), 99.*](https://www.mdpi.com/2297-8747/27/6/99){:target="_blank"}
 
-[5] **Yadav, D.**, Sekar, K., & Ramu, P., Adaptive Sampling for Estimation of Small Probability of Failure Using interpretable Self-Organising Map. (**Accepted**)
+[5] [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
+
 
 _________________________________________________________________________________________________________
 
