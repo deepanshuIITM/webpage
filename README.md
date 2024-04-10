@@ -121,6 +121,8 @@ ________________________________________________________________________________
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
 
+_________________________________________________________________________________________________________
+
 
 ###   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1){:target="_blank"} [2021-2022]
 
@@ -128,6 +130,8 @@ ________________________________________________________________________________
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/f014180f-581d-4fae-a609-09634680227e" alt="image" width="150" height="80">
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/25f293b4-c628-44b0-9620-cfb105f93fe8" alt="image" width="80" height="80">
+
+_________________________________________________________________________________________________________
 
 
 ###   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"} [2021-2022]
@@ -137,6 +141,7 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/af57ce68-89cf-427b-8849-9f7e10ece29d" alt="image" width="80" height="80">
 
 _________________________________________________________________________________________________________
+
 
 ## Journal Publications 
 
