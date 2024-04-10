@@ -115,7 +115,7 @@ ________________________________________________________________________________
 
 ## Academic Collaborations 
 
-###   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html){:target="_blank"} [2021-current]
+####   [COINLab: Computational Optimization and Innovation Laboratory](https://www.coin-lab.org/content/members.html){:target="_blank"} [2021-current]
 
 **Headed by:** [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}, Koenig Endowed Chair Professor, *Electrical and Computer Engineering, [Michigan State University](https://msu.edu/){:target="_blank"}, USA* 
 
@@ -124,7 +124,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-###   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1){:target="_blank"} [2021-2022]
+####   [IDO: Innovative Design Optimization Laboratory](http://idol.kaist.ac.kr/courses/?ckattempt=1){:target="_blank"} [2021-2022]
 
 **Headed by:** [Prof. Ikjin Lee](http://idol.kaist.ac.kr/members/professor/){:target="_blank"}, Department of Mechanical Engineering, *[Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/){:target="_blank"}, South Korea*
 
@@ -134,7 +134,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-###   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"} [2021-2022]
+####   [TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"} [2021-2022]
 
 **With:** [Prof. Erdem Acar](http://acar.etu.edu.tr/){:target="_blank"}, Department of Mechanical Engineering, *[TOBB University of Economics and Technology](https://www.etu.edu.tr/en){:target="_blank"}, Ankara, Turkey* 
 
