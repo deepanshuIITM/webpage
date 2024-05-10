@@ -145,7 +145,7 @@ ________________________________________________________________________________
 
 ## Journal Publications 
 
-[1]. [**Yadav, D.**, Sekar, K., & Ramu, P. (2024). Adaptive sampling based estimation of small probability of failure using interpretable Self-Organising Map. Structural Safety, 102470.](https://doi.org/10.1016/j.strusafe.2024.102470){:target="_blank"}
+[1]. [**Yadav, D.**, Sekar, K., & Ramu, P. (2024). Adaptive sampling based estimation of small probability of failure using interpretable Self-Organising Map. *Structural Safety*, 102470.](https://doi.org/10.1016/j.strusafe.2024.102470){:target="_blank"}
 
 [2]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023). Interpretable self-organizing map assisted interactive multi-criteria decision-making following Pareto-Race. *Applied Soft Computing*, 149 (2023): 111032.](https://doi.org/10.1016/j.asoc.2023.111032){:target="_blank"}
 
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 
 ## Conference Proceedings
 
-[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023, July). Finding Robust Solutions for Many-Objective Optimization Using NSGA-III. In *Congress on Evolutionary Computation (CEC 2023). IEEE*.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CGESxnMAAAAJ&authuser=1&citation_for_view=CGESxnMAAAAJ:qjMakFHDy7sC){:target="_blank"}
+[1]. [**Yadav, D.**, Ramu, P., & Deb, K. (2023, July). Finding Robust Solutions for Many-Objective Optimization Using NSGA-III. In *Congress on Evolutionary Computation (CEC 2023). IEEE*.](https://ieeexplore.ieee.org/document/10254160){:target="_blank"}
 
 [2]. [**Yadav, D.**, Ramu, P., & Deb, K. 2023. Multi-objective Robust Optimization and Decision-Making Using Evolutionary Algorithms. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '23). Association for Computing Machinery, New York, NY, USA*, 786–794.](https://doi.org/10.1145/3583131.3590420){:target="_blank"}
 
