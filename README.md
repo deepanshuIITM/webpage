@@ -166,7 +166,7 @@ ________________________________________________________________________________
 
 [3]. [**Yadav, D.**, Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In *2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE*.](https://ieeexplore.ieee.org/abstract/document/10022083/){:target="_blank"}
 
-[4]. **Yadav, D.**, Ramu, P., & Deb, K. (2024, July). An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization. In *The Genetic and Evolutionary Computation Conference* ACM. (**Accepted**)
+[4]. [**Yadav, D.**, Ramu, P., & Deb, K. (2024, July). An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization. In *The Genetic and Evolutionary Computation Conference* ACM.](https://doi.org/10.1145/3638529.3654031){:target="_blank"} 
 
 _________________________________________________________________________________________________________
 
