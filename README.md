@@ -88,7 +88,7 @@ ________________________________________________________________________________
 
 #### FTP, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
-#### Assistant Manager | [Aug 2018-Jul 2018]
+#### Assistant Manager | [Aug 2017-Jul 2018]
 
 #### O&M Aluminium Foundry, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
