@@ -189,7 +189,7 @@ December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1Ke-H0jBH0gG
 
 _________________________________________________________________________________________________________
 
-## Collaborative Projects by Dual Degree Students
+## Collaborative Projects by Undergrad Students
 
 [**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](){:target="_blank"}
 
@@ -199,6 +199,7 @@ ________________________________________________________________________________
 
 *Visualization-assisted interactive and explainable optimization and decision-making*
 
+_________________________________________________________________________________________________________
 
 ## Relevant Websites
 
