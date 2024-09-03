@@ -189,6 +189,13 @@ December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1Ke-H0jBH0gG
 
 _________________________________________________________________________________________________________
 
+## Collaborative Projects by Dual Degree Students
+
+[**Rishwanth Myanpuri** Dual Degree, Engineering Design, IIT Madras](){:target="_blank"}
+
+[**Agnes Nirmala Srinivasan** B.Tech. Civil Engineering, IIT Madras](){:target="_blank"}
+
+
 ## Relevant Websites
 
 [**A**dvanced **D**esign **O**ptimization and **P**robabilistic **T**echniques (**ADOPT**) Laboratory](https://ed.iitm.ac.in/~palramu/team.html){:target="_blank"}
