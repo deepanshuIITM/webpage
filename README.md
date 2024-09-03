@@ -191,11 +191,11 @@ ________________________________________________________________________________
 
 ## Collaborative Projects by Undergrad Students
 
-[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](){:target="_blank"}
+[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
 *iSOM-derived Explanable Outcomes for Engineering Design Applications*
 
-[**Agnes Nirmala Srinivasan** B.Tech. Civil Engineering, IIT Madras](){:target="_blank"}
+[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
 *Visualization-assisted interactive and explainable optimization and decision-making*
 
