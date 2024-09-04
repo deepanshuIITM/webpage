@@ -142,6 +142,18 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
+## Collaborative Projects by Undergrad Students
+
+[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+
+*iSOM-derived Explanable Outcomes for Engineering Design Applications*
+
+[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}
+
+*Visualization-assisted interactive and explainable optimization and decision-making*
+
+_________________________________________________________________________________________________________
+
 
 ## Journal Publications 
 
@@ -187,17 +199,6 @@ December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1Ke-H0jBH0gG
 
 [7]. [**Yadav D.** & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Tail Modeling ”, In _The 4th National Conference on Multidisciplinary Design, Analysis, and Optimization, IIT Madras_.](https://drive.google.com/file/d/1Z9j7d0tWYNbLhpP1EqpSdXYxMLsML0HA/view?usp=sharing){:target="_blank"}
 
-_________________________________________________________________________________________________________
-
-## Collaborative Projects by Undergrad Students
-
-[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
-
-*iSOM-derived Explanable Outcomes for Engineering Design Applications*
-
-[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}
-
-*Visualization-assisted interactive and explainable optimization and decision-making*
 
 _________________________________________________________________________________________________________
 
