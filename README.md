@@ -146,7 +146,7 @@ ________________________________________________________________________________
 
 [**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- current**
 
-*iSOM-derived Explanable Outcomes for Engineering Design Applications*
+*Visualization-derived Explainable AI for Engineering applications using iSOM*
 
 [**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- May 2024**
 
