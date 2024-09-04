@@ -195,7 +195,7 @@ ________________________________________________________________________________
 
 *iSOM-derived Explanable Outcomes for Engineering Design Applications*
 
-[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}
 
 *Visualization-assisted interactive and explainable optimization and decision-making*
 
