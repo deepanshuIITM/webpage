@@ -142,13 +142,17 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Collaborative Projects with Undergrad Students
+## Collaborative Projects with Undergrad/Masters Students
 
-[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
+[**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- current**
 
 *iSOM-derived Explanable Outcomes for Engineering Design Applications*
 
-[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}
+[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- May 2024**
+
+*iSOM-derived Explanable Outcomes for Engineering Design Applications*
+
+[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}   **July 2023- May 2024**
 
 *Visualization-assisted interactive and explainable optimization and decision-making*
 
