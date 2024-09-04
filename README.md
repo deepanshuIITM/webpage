@@ -142,7 +142,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Collaborative Projects by Undergrad Students
+## Collaborative Projects with Undergrad Students
 
 [**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}
 
