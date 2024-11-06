@@ -6,7 +6,7 @@
 
 <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" alt="image" width="225" height="250">
 
-## Deepanshu Yadav | Ph. D. Scholar 
+### Deepanshu Yadav | Ph. D. Scholar 
 #### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras](https://www.iitm.ac.in/){:target="_blank"}**
 
 **Ph.D. Thesis:** **[Visualization-aided Multi-criteria Decision-making](https://github.com/deepanshuIITM/iSOM-MCDM-Application){:target="_blank"}**
@@ -142,7 +142,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Collaborative Projects with Undergrad/Masters Students
+### Collaborative Projects with Undergrad/Masters Students
 
 [**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- current**
 
