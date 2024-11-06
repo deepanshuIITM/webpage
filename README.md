@@ -9,7 +9,7 @@
 ### Deepanshu Yadav | Ph. D. Scholar 
 #### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras](https://www.iitm.ac.in/){:target="_blank"}**
 
-**Ph.D. Thesis:** **[Visualization-aided Multi-criteria Decision-making](https://github.com/deepanshuIITM/iSOM-MCDM-Application){:target="_blank"}**
+**Ph.D. Thesis:** **[An Integrated Framework for Visualization-aided Multi-criteria Decision-making](https://github.com/deepanshuIITM/iSOM-MCDM-Application){:target="_blank"}**
 
 
 __________________________________________________________________________________________________________
