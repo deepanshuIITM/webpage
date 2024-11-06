@@ -16,14 +16,6 @@ ________________________________________________________________________________
 
 ## Education 
 
-####   B. Tech. in Mechanical Engineering | [2012-2016]
-
-#### [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/){:target="_blank"}, Haryana, India
-
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
-
-_________________________________________________________________________________________________________
-
 #### M.S. + Ph.D. in Engineering Design | [2019-present]
 
 #### [Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="_blank"}, Chennai, Tamil Nadu, India 
@@ -33,6 +25,25 @@ ________________________________________________________________________________
 #### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
 
 _________________________________________________________________________________________________________
+
+#### Exchange Visitor in Electrical and Computer Engineering | [Sep-Nov 2024]
+
+#### [Michigan State University](https://msu.edu/){:target="_blank"}, East Lansing, Michigan State University, USA 
+
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/174e1146-140d-4fc9-9489-236130cfdf0b" alt="image" width="120" height="120">
+
+#### Host: [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
+
+_________________________________________________________________________________________________________
+
+####   B. Tech. in Mechanical Engineering | [2012-2016]
+
+#### [National Institute of Technology Kurukshetra](https://nitkkr.ac.in/){:target="_blank"}, Haryana, India
+
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/095c9b2a-441f-4375-a21e-812b692899b0" alt="image" width="90" height="90">
+
+_________________________________________________________________________________________________________
+
 
 ## Research Interests
 
@@ -142,7 +153,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-### Collaborative Projects with Undergrad/Masters Students
+### Projects with IIT Madras Students
 
 [**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- current**
 
@@ -189,7 +200,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Conference/Symposium Presentations
+## Conference Presentations
 [1]. [**Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
 December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1Ke-H0jBH0gG2I1tqQ5-cd0DGwWh0WJUG/view?usp=sharing){:target="_blank"} 
 
