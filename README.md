@@ -155,15 +155,15 @@ ________________________________________________________________________________
 
 #### Collaboarive Projects with IIT Madras Students
 
-[**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- current**
+[**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **[July 2023- current]**
 
 *Visualization-derived Explainable AI for Engineering applications using iSOM*
 
-[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- May 2024**
+[**Rishwanth Myanapuri** Dual Degree, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **[July 2023- May 2024]**
 
 *iSOM-derived Explanable Outcomes for Engineering Design Applications*
 
-[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}   **July 2023- May 2024**
+[**Agnes Nirmala Srinivasan** B.Tech., Civil Engineering, IIT Madras](https://github.com/ansk25){:target="_blank"}   **[July 2023- May 2024]**
 
 *Visualization-assisted interactive and explainable optimization and decision-making*
 
