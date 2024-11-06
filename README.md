@@ -153,7 +153,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-### Projects with IIT Madras Students
+### Projects with IITM Students
 
 [**V V Kishore** MS, Engineering Design, IIT Madras](https://www.iitm.ac.in/){:target="_blank"}  **July 2023- current**
 
