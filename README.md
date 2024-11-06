@@ -221,7 +221,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-## **Let's Connect ...**
+#### **Let's Connect ...**
  
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/6a0113b8-6857-4571-b00f-fb4f2edc00c6" alt="image" width="17" height="15">  [LinkedIn](https://www.linkedin.com/in/deepanshu-yadav-557812b7/){:target="_blank"} |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a86cf97c-0744-49c2-8ae6-647adf621dda" alt="image" width="15" height="15">  [GitHub](https://github.com/deepanshuIITM?tab=repositories){:target="_blank"} |
@@ -231,7 +231,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Contact Info
+#### Contact Info
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/08627ae9-6841-4820-8ad8-3df2dc3fa06f" alt="image" width="17" height="13">  deepanshu.yadav380@gmail.com |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/a064571d-cd59-4b38-a0f4-79a9427fb60a" alt="image" width="15" height="15">  +91 9078072XXX  
