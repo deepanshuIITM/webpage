@@ -182,7 +182,7 @@ ________________________________________________________________________________
 
 [5]. [Lee, I., Lee, U., Ramu, P., **Yadav, D.**, Bayrak, G., & Acar, E. (2022). Small failure probability: principles, progress and perspectives. *Structural and Multidisciplinary Optimization, 65(11), 326*.](https://link.springer.com/article/10.1007/s00158-022-03431-6){:target="_blank"}
 
-[6]. **Yadav, D.**, Ramu, P., & Deb, K. Handling Objective Preference and Variable Uncertainty in Evolutionary Multi-Objective Optimization.*Swarm and Evolutionary Computation* **[Accepted]**.
+[6]. **Yadav, D.**, Ramu, P., & Deb, K. Handling Objective Preference and Variable Uncertainty in Evolutionary Multi-Objective Optimization. *Swarm and Evolutionary Computation* **[Accepted]**.
 
 _________________________________________________________________________________________________________
 
