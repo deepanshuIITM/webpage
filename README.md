@@ -205,12 +205,12 @@ ________________________________________________________________________________
 
 ## Conference Presentations
 
-[1]. [**Yadav D.** \& Ramu P. (2024), "Handling Objective Preferences and Variable Uncertainty for Evolutionary Multi-objective Optimization", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/1NO3CyjoAIlybw6oS3k-PPRZI0Wmtz9Br/view?usp=sharing){:target="_blank"}  
+[1]. [**Yadav D.** & Ramu P. (2024), "Handling Objective Preferences and Variable Uncertainty for Evolutionary Multi-objective Optimization", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/1NO3CyjoAIlybw6oS3k-PPRZI0Wmtz9Br/view?usp=sharing){:target="_blank"}  
 
 
-[2]. [Kishore V. V., **Yadav D.** \& Ramu P. (2024), "Feature Selection and Feature Interaction Using Interpretable Self-Organizing Map", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/14O22TGmb9Pxs3QSvAyeuzQOy4oVHL0yA/view?usp=sharing){:target="_blank"} 
+[2]. [Kishore V. V., **Yadav D.** & Ramu P. (2024), "Feature Selection and Feature Interaction Using Interpretable Self-Organizing Map", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/14O22TGmb9Pxs3QSvAyeuzQOy4oVHL0yA/view?usp=sharing){:target="_blank"} 
 
-[3]. [Khalid A., **Yadav D.** \& Ramu P. (2024), "Robust Design Optimization Using Interpretable Self- Organizing Maps", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/1bZoNdUwoC4bWlhSlUgQsyrVjbE-KF4th/view?usp=sharing){:target="_blank"} 
+[3]. [Khalid A., **Yadav D.** & Ramu P. (2024), "Robust Design Optimization Using Interpretable Self- Organizing Maps", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/1bZoNdUwoC4bWlhSlUgQsyrVjbE-KF4th/view?usp=sharing){:target="_blank"} 
 
 [4]. [**Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
 December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1Ke-H0jBH0gG2I1tqQ5-cd0DGwWh0WJUG/view?usp=sharing){:target="_blank"} 
