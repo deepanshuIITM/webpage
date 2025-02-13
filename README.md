@@ -204,20 +204,28 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 ## Conference Presentations
-[1]. [**Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
+
+[1]. [**Yadav D.** \& Ramu P. (2024), "Handling Objective Preferences and Variable Uncertainty for Evolutionary Multi-objective Optimization", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/1NO3CyjoAIlybw6oS3k-PPRZI0Wmtz9Br/view?usp=sharing){:target="_blank"}  
+
+
+[2]. [Kishore V. V., **Yadav D.** \& Ramu P. (2024), "Feature Selection and Feature Interaction Using Interpretable Self-Organizing Map", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/14O22TGmb9Pxs3QSvAyeuzQOy4oVHL0yA/view?usp=sharing){:target="_blank"} 
+
+[3]. [Khalid A., **Yadav D.** \& Ramu P. (2024), "Robust Design Optimization Using Interpretable Self- Organizing Maps", In _The 1st International Conference on Multi-disciplinary Design, Analysis, and Optimization, December 14-16, 2024, IISc Bangalore_.](https://drive.google.com/file/d/1bZoNdUwoC4bWlhSlUgQsyrVjbE-KF4th/view?usp=sharing){:target="_blank"} 
+
+[4]. [**Yadav D.**, Raj M. & Ramu P., (2023), "Visualization-aided Design Space Exploration of MDO Problems", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023)
 December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1Ke-H0jBH0gG2I1tqQ5-cd0DGwWh0WJUG/view?usp=sharing){:target="_blank"} 
 
-[2]. [Rishwanth M., Kishore V.V., Srinivasan, A.N., Mani V., **Yadav D.** & Ramu P. (2023), "iSOM-derived Explainable Outcomes for Engineering Applications", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1ZEimL1BjpeQbKuGX70yeko5MOsj5Y2Is/view?usp=sharing){:target="_blank"} 
+[5]. [Rishwanth M., Kishore V.V., Srinivasan, A.N., Mani V., **Yadav D.** & Ramu P. (2023), "iSOM-derived Explainable Outcomes for Engineering Applications", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1ZEimL1BjpeQbKuGX70yeko5MOsj5Y2Is/view?usp=sharing){:target="_blank"} 
 
-[3]. [**Yadav D.**, Ramu P. & Deb K. (2023), "Incorporating Qualitative Preferences in Evolutionary Multi-Criteria Decision-Making", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1IUbL756UYeBeBLPrl2HExeCKSsOyu73f/view?usp=sharing){:target="_blank"} 
+[6]. [**Yadav D.**, Ramu P. & Deb K. (2023), "Incorporating Qualitative Preferences in Evolutionary Multi-Criteria Decision-Making", In _The 6th National Conference on Multidisciplinary Design, Analysis and Optimization (NCMDAO 2023) December 6-8, 2023, IIT Guwahati_.](https://drive.google.com/file/d/1IUbL756UYeBeBLPrl2HExeCKSsOyu73f/view?usp=sharing){:target="_blank"} 
 
-[4]. [**Yadav D.** & Ramu P. (2023), “Multi-Criteria Decision-making (MCDM) using interpretable Self-organizing Maps (iSOM)”, In _International System Realization Partnership (ISRP) 2023 Symposium,_ Design Engineering in the Age of Industry 5.0, Cranfield University.](https://drive.google.com/file/d/1447HI068NK9-J7QFmubST5K1OaONobyw/view?usp=sharing){:target="_blank"}
+[7]. [**Yadav D.** & Ramu P. (2023), “Multi-Criteria Decision-making (MCDM) using interpretable Self-organizing Maps (iSOM)”, In _International System Realization Partnership (ISRP) 2023 Symposium,_ Design Engineering in the Age of Industry 5.0, Cranfield University.](https://drive.google.com/file/d/1447HI068NK9-J7QFmubST5K1OaONobyw/view?usp=sharing){:target="_blank"}
 
-[5]. [**Yadav D.** & Ramu P. (2023), “A Novel Sensitivity Analysis Method Using Self Organizing Maps (SOM)”, In _The 15th World Conference of Structural and Multi-disciplinary Optimization (WCSMO-15)_.](https://drive.google.com/file/d/1tTKNcuM7gmqDbgDWqFfAOzAr9CjfdjM9/view?usp=sharing){:target="_blank"} 
+[8]. [**Yadav D.** & Ramu P. (2023), “A Novel Sensitivity Analysis Method Using Self Organizing Maps (SOM)”, In _The 15th World Conference of Structural and Multi-disciplinary Optimization (WCSMO-15)_.](https://drive.google.com/file/d/1tTKNcuM7gmqDbgDWqFfAOzAr9CjfdjM9/view?usp=sharing){:target="_blank"} 
 
-[6]. [**Yadav D.** & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Extremes Prediction”, In _The 2nd International Symposium on Data Analytics Risk & Technology, RBCDSAI, IIT Madras_.](https://drive.google.com/file/d/1lJRMG57bJTtP6DQdUYxUThLYtfoLe-SZ/view?usp=sharing){:target="_blank"}
+[9]. [**Yadav D.** & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Extremes Prediction”, In _The 2nd International Symposium on Data Analytics Risk & Technology, RBCDSAI, IIT Madras_.](https://drive.google.com/file/d/1lJRMG57bJTtP6DQdUYxUThLYtfoLe-SZ/view?usp=sharing){:target="_blank"}
 
-[7]. [**Yadav D.** & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Tail Modeling ”, In _The 4th National Conference on Multidisciplinary Design, Analysis, and Optimization, IIT Madras_.](https://drive.google.com/file/d/1Z9j7d0tWYNbLhpP1EqpSdXYxMLsML0HA/view?usp=sharing){:target="_blank"}
+[10]. [**Yadav D.** & Ramu P. (2021), “iSOM Enabled Targeted Sampling for Tail Modeling ”, In _The 4th National Conference on Multidisciplinary Design, Analysis, and Optimization, IIT Madras_.](https://drive.google.com/file/d/1Z9j7d0tWYNbLhpP1EqpSdXYxMLsML0HA/view?usp=sharing){:target="_blank"}
 
 
 _________________________________________________________________________________________________________
