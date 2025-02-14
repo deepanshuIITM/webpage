@@ -3,20 +3,7 @@
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4d7457d0-7b5e-45c0-8d79-2d68fadfcf6a" alt="image" width="17" height="15"> [Google Scholar](https://scholar.google.com/citations?user=CGESxnMAAAAJ&hl=en&authuser=1){:target="_blank"} |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e1ff0157-29a8-4e52-9a60-7386870f26b4" alt="image" width="17" height="15"> [Reseach Gate](https://www.researchgate.net/profile/Deepanshu-Yadav-5){:target="_blank"} |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/bc07bd1d-a716-4b9b-888b-b975f489892f" alt="image" width="15" height="15"> [CV](https://github.com/deepanshuIITM/webpage/blob/main/Deepanshu_CV_IIT_Bombay.pdf){:target="_blank"} |
-
-<a
-id="cy-effective-orcid-url"
-class="underline"
-href="https://orcid.org/0000-0003-1841-8942"
-target="orcid.widget"
-rel="me noopener noreferrer"
-style="vertical-align: top">
-<img
-src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-style="width: 1em; margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>
-[ORCID]
-</a>
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="image" width="15" height="15"> [ORCiD](https://orcid.org/0000-0003-1841-8942){:target="_blank"}
 
        
 <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" alt="image" width="225" height="250">
@@ -265,20 +252,7 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/4d7457d0-7b5e-45c0-8d79-2d68fadfcf6a" alt="image" width="17" height="15"> [Google Scholar](https://scholar.google.com/citations?user=CGESxnMAAAAJ&hl=en&authuser=1){:target="_blank"} |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e1ff0157-29a8-4e52-9a60-7386870f26b4" alt="image" width="17" height="15">  [Research Gate](https://www.researchgate.net/profile/Deepanshu-Yadav-5){:target="_blank"} |
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/bc07bd1d-a716-4b9b-888b-b975f489892f" alt="image" width="15" height="15">  [CV](https://github.com/deepanshuIITM/webpage/blob/main/Deepanshu_CV_IIT_Bombay.pdf){:target="_blank"} |
-
-<a
-id="cy-effective-orcid-url"
-class="underline"
-href="https://orcid.org/0000-0003-1841-8942"
-target="orcid.widget"
-rel="me noopener noreferrer"
-style="vertical-align: top">
-<img
-src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-style="width: 1em; margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>
-ORCID
-</a>
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="image" width="15" height="15"> [ORCiD](https://orcid.org/0000-0003-1841-8942){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
