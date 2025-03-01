@@ -199,7 +199,7 @@ ________________________________________________________________________________
 
 [4]. [**Yadav, D.**, Ramu, P., & Deb, K. (2024, July). An Updated Performance Metric for Preference Based Evolutionary Multi-Objective Optimization. In *The Genetic and Evolutionary Computation Conference* ACM.](https://doi.org/10.1145/3638529.3654031){:target="_blank"} 
 
-[5]. **Yadav, D.**, Ramu, P., & Deb, K. (2025, March). Reliability-based MCDM Using Objective Preferences Under Variable Uncertainty. In *Evolutionary Multicriterion Optimization*. **[In Production]**.
+[5]. [**Yadav, D.**, Ramu, P., & Deb, K. (2025, March). Reliability-based MCDM Using Objective Preferences Under Variable Uncertainty. In *Evolutionary Multi-Criterion Optimization. EMO 2025.* Lecture Notes in Computer Science, vol 15513. Springer, Singapore.](https://doi.org/10.1007/978-981-96-3538-2_16){:target="_blank"} 
 
 [6]. **Yadav, D.**, Ramu, P., & Deb, K. (2025, July). Machine Learning-Assisted Constraint Handling Under Variable Uncertainty for Preference-Based Multi-Objective Optimization. **[Under Review]**.
 
