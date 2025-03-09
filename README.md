@@ -97,7 +97,7 @@ ________________________________________________________________________________
 
 #### [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
-#### Maintenance Engineering | [Jan 2017-Jul 2017]
+#### Operations & Maintenance Engineering | [Jan 2017-Jul 2017]
 
 #### FTP, [Vedanta Aluminium Limited](https://vedantaaluminium.com/){:target="_blank"}, Jharsuguda, Odisha, India
 
