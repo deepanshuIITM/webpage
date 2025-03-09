@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Education 
 
-#### M.S. + Ph.D. in Engineering Design | [2019-present]
+#### M.S. + Ph.D. in Engineering Design | [2019-2024]
 
 #### [Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="_blank"}, Chennai, Tamil Nadu, India 
 
