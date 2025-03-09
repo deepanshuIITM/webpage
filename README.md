@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 ## Research Interests
 
-**Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust optimization & decision-making
+**Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust and reliable optimization & decision-making
 
 **Machine Learning:** Applied Statistics, basics of Machine Learning & Deep Learning techniques
 
