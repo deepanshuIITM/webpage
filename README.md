@@ -48,32 +48,6 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-## Research Interests
-
-**Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust and reliable optimization & decision-making
-
-**Machine Learning:** Applied Statistics, basics of Machine Learning & Deep Learning techniques
-
-**Visual Analytics:** Design space exploration, Pareto front exploration, region of interest (RoI) identification, interpretable self-organizing maps (iSOM), PCP, RadViz, etc.
-
-**Uncertainty Quantification:** Extreme events, reliability-based design, probabilistic techniques
-
-**Optimization:** Gradient-based and heuristics-based algorithms, evolutionary algorithms, single-objective, multi-objective optimization, and many-objective optimization
-
-_________________________________________________________________________________________________________
-
-## Skills
-
-<img src="https://github.com/deepanshuIITM/webpage/assets/137225940/56262065-527c-426e-a95c-710fd4cdd106" alt="image" width="90" height="40">
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/733ae47c-cc23-4b17-8d59-d5ce423879b7" alt="image" width="50" height="50"> 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2f5ead68-ab2e-4d88-bc7b-92c9f7c4f27a" alt="image" width="90" height="50">
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/ccca25b5-7dca-403b-a80a-61e656feafb3" alt="image" width="100" height="50"> 
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e7dd23af-8605-4bac-87ef-c9ff1795f658" alt="image" width="50" height="50">
-<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/c4036d9e-63a4-4f7e-b247-e53c6d29c1fa" alt="image" width="90" height="50">
-
-
-_________________________________________________________________________________________________________
-
 ## Work Experience
 
 ####   Student Trainee | [Jun 2014-Jul 2014]
@@ -125,6 +99,33 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
 #### Role: HW and Quiz preparation, Tutorials, Evaluations
+_________________________________________________________________________________________________________
+
+
+## Research Interests
+
+**Decision Making:** Visualization-aided interactive and informed multi-criteria decision-making (MCDM), evolutionary multi-objective robust and reliable optimization & decision-making
+
+**Machine Learning:** Applied Statistics, basics of Machine Learning & Deep Learning techniques
+
+**Visual Analytics:** Design space exploration, Pareto front exploration, region of interest (RoI) identification, interpretable self-organizing maps (iSOM), PCP, RadViz, etc.
+
+**Uncertainty Quantification:** Extreme events, reliability-based design, probabilistic techniques
+
+**Optimization:** Gradient-based and heuristics-based algorithms, evolutionary algorithms, single-objective, multi-objective optimization, and many-objective optimization
+
+_________________________________________________________________________________________________________
+
+## Skills
+
+<img src="https://github.com/deepanshuIITM/webpage/assets/137225940/56262065-527c-426e-a95c-710fd4cdd106" alt="image" width="90" height="40">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/733ae47c-cc23-4b17-8d59-d5ce423879b7" alt="image" width="50" height="50"> 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/2f5ead68-ab2e-4d88-bc7b-92c9f7c4f27a" alt="image" width="90" height="50">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/ccca25b5-7dca-403b-a80a-61e656feafb3" alt="image" width="100" height="50"> 
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/e7dd23af-8605-4bac-87ef-c9ff1795f658" alt="image" width="50" height="50">
+<img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/c4036d9e-63a4-4f7e-b247-e53c6d29c1fa" alt="image" width="90" height="50">
+
+
 _________________________________________________________________________________________________________
 
 ## Academic Collaborations 
