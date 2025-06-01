@@ -93,7 +93,6 @@ ________________________________________________________________________________
 <img src="https://github.com/user-attachments/assets/964f5c9f-90cd-49c9-ba07-0d9d771e13e1" alt="image" width="90" height="70">
 <img src="https://github.com/user-attachments/assets/9aac66bb-e664-4ae0-9645-f399aeadbdfc" alt="image" width="70" height="70">
 
-##
 
 #### ED5015: Computational methods in Design [Jan-May 2022, Jan-May 2023]
 
@@ -105,7 +104,6 @@ ________________________________________________________________________________
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="75" height="75">
 
-##
 
 #### Industry Lecture to Infosys: Robust Design [Sept-Oct 2021]
  
