@@ -10,7 +10,7 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" alt="image" width="200" height="220">
 
 
-### Deepanshu | M.S.+Ph. D.  
+### Deepanshu | Integrated M.S.+ Ph.D.  
 #### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras](https://www.iitm.ac.in/){:target="_blank"}**
 
 **Ph.D. Thesis:** **[An Integrated Framework for Visualization-aided Multi-criteria Decision-making](https://drive.google.com/file/d/12nwkfMrC3q9RPxRcsGsLaImmP3R8sshF/view?usp=sharing){:target="_blank"}**
