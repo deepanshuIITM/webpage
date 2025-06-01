@@ -87,22 +87,18 @@ ________________________________________________________________________________
 ## Teaching Assistant
 
 #### GIAN Course: Computational Intelligence Methods for Multi-criterion Design [Jan 6-Jan 10, 2025]
-
 *[Centre for Outreach and Digital Education (CODE), IIT Madras](https://code.iitm.ac.in/gian){:target="_blank"}*
 
 
 #### ED5015: Computational methods in Design [Jan-May 2022, Jan-May 2023]
-
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}*
 
 
 #### ED6002: Optimization in Engineering Design [Jul-Nov 2021]
-
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}* 
 
 
  #### Industry Lecture to Infosys: Robust Design [Sept-Oct 2021]
-
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}* 
 
 
