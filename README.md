@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 ## Teaching Assistant
 
-#### GIAN Course: Computational Intelligence Methods for Multi-criterion Design and Decision-making [Jan 6 - Jan 10, 2025]
+#### GIAN Course: Computational Intelligence Methods for Multi-criterion Design [Jan 6 - Jan 10, 2025]
 *[Centre for Outreach and Digital Education (CODE), IIT Madras](https://code.iitm.ac.in/gian){:target="_blank"}*
 
 
