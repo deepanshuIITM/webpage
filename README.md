@@ -86,7 +86,8 @@ ________________________________________________________________________________
 
 ## Teaching Assistant
 
-#### GIAN Course: Computational Intelligence Methods for Multi-criterion Design [Jan 6 - Jan 10, 2025]
+#### GIAN Course: Computational Intelligence Methods for Multi-criterion Design [Jan 6-Jan 10, 2025]
+
 *[Centre for Outreach and Digital Education (CODE), IIT Madras](https://code.iitm.ac.in/gian){:target="_blank"}*
 
 
@@ -103,6 +104,7 @@ ________________________________________________________________________________
  #### Industry Lecture to Infosys: Robust Design [Sept-Oct 2021]
 
 *[Department of Engineering Design, IIT Madras](https://ed.iitm.ac.in/){:target="_blank"}* 
+
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="75" height="75">
 <img src="https://github.com/user-attachments/assets/964f5c9f-90cd-49c9-ba07-0d9d771e13e1" alt="image" width="100" height="75">
