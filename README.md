@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-## Teaching Assistant
+## Teaching Experience
 
 #### GIAN Course: Computational Intelligence Methods for Multi-criterion Design [Jan 6-Jan 10, 2025]
 
