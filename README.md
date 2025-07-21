@@ -282,7 +282,7 @@ ________________________________________________________________________________
 
 # THANK YOU !
 
-![Visitor Count](https://profile-counter.glitch.me/{Your User}/count.svg) 
+% ![Visitor Count](https://profile-counter.glitch.me/{Your User}/count.svg) %
 
 
 
