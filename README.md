@@ -217,7 +217,8 @@ ________________________________________________________________________________
 
 [5]. [**Yadav, D.**, Ramu, P., & Deb, K. (2025, March). Reliability-based MCDM Using Objective Preferences Under Variable Uncertainty. In *Evolutionary Multi-Criterion Optimization. EMO 2025.* Lecture Notes in Computer Science, vol 15513. Springer, Singapore.](https://doi.org/10.1007/978-981-96-3538-2_16){:target="_blank"} 
 
-[6]. **Yadav, D.**, Ramu, P., & Deb, K. (2025, July). Machine Learning-Assisted Constraint Handling Under Variable Uncertainty for Preference-Based Multi-Objective Optimization. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '25). Association for Computing Machinery, New York, NY, USA*. **[Accepted]**.
+[6]. [**Yadav, D.**, Ramu, P., & Deb, K. (2025, July). Machine Learning-Assisted Constraint Handling Under Variable Uncertainty for Preference-Based Multi-Objective Optimization. In *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '25). Association for Computing Machinery, New York, NY, USA*.](https://dl.acm.org/doi/abs/10.1145/3712256.3726462){:target="_blank"}.
+
 
 _________________________________________________________________________________________________________
 
