@@ -11,9 +11,7 @@ ________________________________________________________________________________
 
 
 ## Deepanshu, Ph.D. (IIT Madras) 
-
-**Current Affiliation:** Postdoctoral Researcher  
-
+### Postdoctoral Researcher 
 #### *[Department of Electrical and Computer Engineering](https://engineering.msu.edu/about/departments/ece){:target="_blank"}* | **[Michigan State University, USA](https://msu.edu/){:target="_blank"}**
 
 __________________________________________________________________________________________________________
