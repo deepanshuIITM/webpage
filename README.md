@@ -10,7 +10,10 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" alt="image" width="200" height="220">
 
 
-### Deepanshu | Postdoctoral Researcher  
+## Deepanshu, Ph.D. (IIT Madras) 
+
+**Current Affiliation:** Postdoctoral Researcher  
+
 #### *[Department of Electrical and Computer Engineering](https://engineering.msu.edu/about/departments/ece){:target="_blank"}* | **[Michigan State University, USA](https://msu.edu/){:target="_blank"}**
 
 __________________________________________________________________________________________________________
