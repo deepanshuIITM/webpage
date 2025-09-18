@@ -12,9 +12,9 @@ ________________________________________________________________________________
 
 # Dr. Deepanshu 
 
-### Ph.D., [IIT Madras](https://www.iitm.ac.in/){:target="_blank"} 
+**Postdoc, [Michigan State University, USA](https://msu.edu/){:target="_blank"}**
 
-### Postdoc, [MSU, USA](https://msu.edu/){:target="_blank"}
+**Ph.D., [Indian Institute of Technology Madras](https://www.iitm.ac.in/){:target="_blank"}** 
 
 __________________________________________________________________________________________________________
 
