@@ -10,10 +10,8 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" alt="image" width="200" height="220">
 
 
-### Deepanshu | M.S.+ Ph.D.  
-#### *[Department of Engineering Design](https://ed.iitm.ac.in/){:target="_blank"}* | **[IIT Madras](https://www.iitm.ac.in/){:target="_blank"}**
-
-**Ph.D. Thesis:** **[An Integrated Framework for Visualization-aided Multi-criteria Decision-making](https://drive.google.com/file/d/1k1hn8twzN_LGEI21fZ7KmyyQyqNcEvKG/view?usp=sharing){:target="_blank"}**
+### Deepanshu | Postdoctoral Researcher  
+#### *[Department of Electrical and Computer Engineering](https://engineering.msu.edu/about/departments/ece){:target="_blank"}* | **[Michigan State University, USA](https://msu.edu/){:target="_blank"}**
 
 __________________________________________________________________________________________________________
 
@@ -25,7 +23,9 @@ ________________________________________________________________________________
 
 <img src="https://github.com/deepanshuIITM/Homepage/assets/137225940/14fda2f8-c607-4f04-8d5b-8b99291bf97c" alt="image" width="90" height="90">
 
-#### Mentors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
+**Ph.D. Thesis:** **[An Integrated Framework for Visualization-aided Multi-criteria Decision-making](https://drive.google.com/file/d/1k1hn8twzN_LGEI21fZ7KmyyQyqNcEvKG/view?usp=sharing){:target="_blank"}**
+
+#### Ph.D. Advisors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
