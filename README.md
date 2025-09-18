@@ -10,7 +10,9 @@ ________________________________________________________________________________
 <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" alt="image" width="200" height="220">
 
 
-## Deepanshu, Ph.D. [IIT Madras](https://www.iitm.ac.in/){:target="_blank"} 
+# Dr. Deepanshu 
+
+### Ph.D., [IIT Madras](https://www.iitm.ac.in/){:target="_blank"} 
 
 ### Postdoc, [MSU, USA](https://msu.edu/){:target="_blank"}
 
