@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 **Ph.D. Thesis:** **[An Integrated Framework for Visualization-aided Multi-criteria Decision-making](https://drive.google.com/file/d/1k1hn8twzN_LGEI21fZ7KmyyQyqNcEvKG/view?usp=sharing){:target="_blank"}**
 
-#### Ph.D. Advisors: [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
+**Ph.D. Advisors:** [Prof. Palaniappan Ramu](https://ed.iitm.ac.in/~palramu/){:target="_blank"} and [Prof. Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/){:target="_blank"}
 
 _________________________________________________________________________________________________________
 
