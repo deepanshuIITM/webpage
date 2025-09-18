@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ## Deepanshu, Ph.D. (IIT Madras) 
 
 **Postdoctoral Researcher** 
-#### *[Department of Electrical and Computer Engineering](https://engineering.msu.edu/about/departments/ece){:target="_blank"}* | **[Michigan State University, USA](https://msu.edu/){:target="_blank"}**
+#### *[Department of Electrical and Computer Engineering](https://engineering.msu.edu/about/departments/ece){:target="_blank"}*, **[Michigan State University, USA](https://msu.edu/){:target="_blank"}**
 
 __________________________________________________________________________________________________________
 
